@@ -2,6 +2,7 @@ import React from 'react'
 import { AnimatePresence,motion } from 'framer-motion'  
  import "./Home.css"
  import { Link } from 'react-router-dom'
+ import Video2 from './component/video/Video2.mp4'
 
 
 
@@ -22,7 +23,7 @@ export const Home = () => {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <video id="bgvid" src="/video/video-2.mp4" autoPlay  loop muted >
+      <video id="bgvid" src={Video2} type="video/mp4" autoPlay  loop muted >
           
           </video>
       <div class="carousel-caption d-none d-md-block">

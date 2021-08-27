@@ -6,6 +6,9 @@ import { motion } from 'framer-motion'
 import Aos from "aos"
 import "aos/dist/aos.css"
 import { useEffect } from 'react'
+import photo4 from './component/video/photo4.jpg'
+import photo5 from './component/video/photo5.jpg'
+import photo1 from './component/video/photo1.png'
 
 
 export const About = () => {
@@ -33,21 +36,21 @@ export const About = () => {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="3000">
-      <img src="/video/photo4.jpg" class="d-block w-100" alt="..."/>
+      <img src={photo4} class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h1></h1>
         <p></p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="3000">
-      <img src="/video/photo5.jpg" class="d-block w-100" alt="..."/>
+      <img src={photo5} class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h1></h1>
         <p></p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="3000">
-      <img src="/video/photo3.jpg" class="d-block w-100" alt="..."/>
+      <img src={photo1} class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h1></h1>
         <p></p>

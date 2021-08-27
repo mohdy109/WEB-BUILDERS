@@ -1,6 +1,8 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import "./Navbar.css"
+import webbuilders2 from './component/video/webbuilders2.mp4'
+
 export const Navbar = () => {
     return (
         <>
@@ -9,7 +11,7 @@ export const Navbar = () => {
                 <div className="col-10 mx-auto">
         <nav className="navbar navbar-expand-lg navbar-blue bg-black">
   <div className="container-fluid">
-  <video id="shanu" src="/video/web-builder's-2.mp4" autoPlay loop muted >
+  <video id="shanu" src={webbuilders2}  type= "video/mp4"autoPlay loop muted >
           
           </video>
 <a class="navbar-brand" to="/">WEB-BUILDER'S</a>
