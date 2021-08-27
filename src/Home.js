@@ -24,7 +24,7 @@ export const Home = () => {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <video id="bgvid" src={Video2} type="video/mp4" autoPlay  loop muted >
+      <video id="bgvid" src={Video2} type="video/mp4"  autoPlay  loop muted >
           
           </video>
       <div class="carousel-caption d-none d-md-block">
