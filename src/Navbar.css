@@ -1,0 +1,38 @@
+
+#shanu{
+    position: relative;
+    size: 1px;
+    margin-left: 10rem;
+    padding-left: 10rem;
+    margin-left: -308px;
+    height: 5rem;
+    width: 24rem;
+    object-fit: contain;
+}
+.navbar{
+    height: 5rem;
+    
+}
+.navbar-brand{
+    
+    color: #5543ca;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-left: -16rem;
+    margin-right: 5rem;
+    
+}
+.nav-link{
+    color: #5543ca;
+    margin-right: 2rem;
+    padding-left: 5rem;
+    font-size: 1.2rem;
+    text-align: end;
+}
+.navbar-toggler{
+    background-color:#5543ca;
+    
+}
+.navbar::after{
+    box-shadow: 20px 20px 20px black ;
+}

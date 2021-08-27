@@ -1,0 +1,63 @@
+.container{
+    
+    padding: 2rem;
+    text-align: center;
+    margin-left: 6.2rem;
+      margin-top: 3rem;
+     
+}
+.card{
+    border-radius: 0.5rem;
+    background-color:white;
+    width: 18rem;
+    height: 24rem;
+    box-shadow: 3px 4px 4px  black;
+    position:relative;
+    backface-visibility: hidden;
+    transition: transform .6s linear; 
+    
+
+}
+.card img{
+    border-radius: 0.5rem 0.5rem 0rem 0rem;
+    
+}
+.card:hover{
+    box-shadow: 9px 12px 12px black;
+    
+    transition: transform .6s linear ;
+    background-color:white;
+    transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    
+}
+h1::after {
+    background: none repeat scroll 0 0 rgb(3, 3, 3);
+    bottom: -18px;
+    content: "";
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 50px;
+    margin-left: 38.5rem;
+    background-color: #5543ca;
+    
+}
+.text-center{
+    margin-top: 5rem;
+}
+.back{
+    background-color:#5543ca;
+    position: absolute;
+    height: 10rem;
+    width: 10rem;
+    transform: translateZ(1px);
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+    width: 18rem;
+    height: 24rem;
+    border-radius: 0.5rem;
+    transition: transform .6s linear;
+    
+    
+}

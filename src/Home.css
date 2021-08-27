@@ -1,0 +1,66 @@
+.bgvid{
+    object-fit: cover;
+    width: 10;
+    height: 100%;
+    position: relative;
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0,0.2);
+    z-index: "-1";
+    position: fixed;
+}
+#khan{
+    background-color: red;
+    top: 38%;
+    color: white;
+    z-index: "5";
+}
+#yasir {
+    background-color: #5543ca;
+    margin-bottom: 5rem;
+    height: 40px;
+    width: 200px;
+    
+    box-shadow: 5px 5px 5px black;
+
+}
+#yasir:active{
+    transform: translateY(5px);
+}
+@media(max-width : 375px){
+h1::after{
+    margin-right: 10rem;
+    content-visibility: hidden;
+}
+.text-center{
+    margin-top: 10rem;
+    
+}
+#bgvid{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+    width: 200%;
+}
+.row{
+    margin-right: 33rem;
+}
+.navbar-collapse{
+    background-color: black;
+}
+
+#carouselExampleDark{
+    margin-left: -16.5;
+}
+#yo{
+    padding-left: 0.5rem;
+}
+.get_in_touch{
+    margin-left: -11.3rem;
+    width: 40rem;
+}
+.get_in_touch .title{
+    padding-left: 9.5rem;
+}
+}
