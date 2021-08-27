@@ -1,8 +1,9 @@
 import React from 'react'
-import { AnimatePresence,motion } from 'framer-motion'  
+import { motion } from 'framer-motion'  
  import "./Home.css"
  import { Link } from 'react-router-dom'
  import Video2 from './component/video/Video2.mp4'
+ 
 
 
 

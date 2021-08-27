@@ -38,8 +38,8 @@ export const About = () => {
     <div class="carousel-item active" data-bs-interval="3000">
       <img src={photo4} class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
-        <h1></h1>
-        <p></p>
+        
+        
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="3000">

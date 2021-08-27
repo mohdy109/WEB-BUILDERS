@@ -9,7 +9,7 @@ import { About }  from './About';
 import { Service }  from './Service';
 import { Contact }  from './Contact';
 import {  Redirect, Route,    Switch,useLocation } from 'react-router-dom';
-import{AnimatePresence,motion} from "framer-motion"
+import{AnimatePresence} from "framer-motion"
 
 
 

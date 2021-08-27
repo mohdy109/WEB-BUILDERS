@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Contact.css"
-import { AnimatePresence,motion } from 'framer-motion'
+import { motion } from 'framer-motion'
 
 import {FaWhatsapp,FaEnvelope,FaInstagram,FaFacebook,FaTelegram} from  "react-icons/fa";
 
