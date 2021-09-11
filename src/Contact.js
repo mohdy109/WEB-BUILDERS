@@ -28,7 +28,7 @@ export const Contact = () => {
          exit={{opacity : 0}}>
         <div>
           <h1 className="text-center toe"> Let's Connect !</h1>
-          <p1  id="yo" data-aos="fade-right" >"Talk to us about about you requirment.Shedule a call"</p1> 
+          <p1  id="yo" data-aos="fade-right" >"Talk to us about about your requirment.Shedule a call"</p1> 
 
         </div>
         <section class="get_in_touch" data-aos="fade-left">
