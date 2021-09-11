@@ -29,7 +29,7 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
 
 </div>
@@ -45,7 +45,7 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
 
 </div>
@@ -61,7 +61,7 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
 
 </div>
@@ -81,7 +81,7 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
 
 </div>
@@ -97,7 +97,7 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
 
 </div>
@@ -113,14 +113,17 @@ export const Service = () => {
   </div>
   <div className="back">
   <div className="card-body">
-    uogu
+    PRICE'S
   </div>
+
+</div>
 
 </div>
 </div>
     </div>
   </div>
-</div>
+
+
 
 </motion.div>
       </>

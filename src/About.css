@@ -1,16 +1,5 @@
 
-.text-center.head::after {
-    background: none repeat scroll 0 0 rgb(3, 3, 3);
-    bottom: -19px;
-    content: "";
-    display: block;
-    height: 2px;
-    position: relative;
-    width: 50px;
-    margin-left: 39.3rem;
-    background-color: #5543ca;
-    
-}
+
 .text-center-para{
     color: royalblue;
     padding-top: 3rem;
@@ -31,6 +20,12 @@
     
     
   
+}
+@media(max-width:375px){
+    #carouselExampleDark{
+   
+        margin-left: -5.5rem;
+    }
 }
 img,svg{
     height: 20rem;

@@ -50,16 +50,10 @@ h1::after{
     background-color: black;
 }
 
-#carouselExampleDark{
-    margin-left: -16.5;
-}
 #yo{
     padding-left: 0.5rem;
 }
-.get_in_touch{
-    margin-left: -11.3rem;
-    width: 40rem;
-}
+
 .get_in_touch .title{
     padding-left: 9.5rem;
 }

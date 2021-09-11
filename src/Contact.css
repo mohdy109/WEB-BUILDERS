@@ -11,6 +11,14 @@
     height: 45rem;
     width: 90rem;
 }
+@media(max-width:375px){
+    .get_in_touch{
+        
+            margin-left: -7.3rem;
+            width: 37rem;
+        
+    }
+}
 .get_in_touch .title{
     text-transform: uppercase;
     text-align: center;
@@ -26,6 +34,10 @@
 
 
 
+}
+@media(max-width:375px){
+    .get_in_touch .title{padding-left: 6.5rem;
+    }
 }
 .contact-form .form-field{
     position: relative;
@@ -87,18 +99,7 @@
     font-size: 2rem;
     
 }
-.text-center.toe::after {
-    background: none repeat scroll 0 0 rgb(3, 3, 3);
-    bottom: -2px;
-    content: "";
-    display: block;
-    height: 2px;
-    position: relative;
-    width: 50px;
-    margin-left: 39.3rem;
-    background-color: #5543ca;
-    
-}
+
 .contact-form .submit-btn{
     margin-right: 4rem;
     justify-content: center;
@@ -113,4 +114,15 @@
     width:3rem ;
     margin-right: 2.5rem;
     margin-top: 1rem;
+}
+@media(max-width:375px){
+     #yo{
+          padding-left: 0.5rem  ;
+          
+      }
+      
+.container {
+    margin-left: 1.1rem;
+}
+
 }
