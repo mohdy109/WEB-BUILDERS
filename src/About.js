@@ -26,7 +26,7 @@ export const About = () => {
         </h1>
         <div>
 <h2 className="text-center " data-aos="fade-right">"We Love What We Do"</h2>
-<h3 className="text-center-para" data-aos="fade-left">"our talented team crafts the best code and design amazing user experience.Web-Builder's are a professional web-development company in downtown Noida. This is a paragraph. You can write your own content here, and fill in the blanks. What's your story and where do you go from here? Tell the world about your business, and make this text yours. This is a paragraph."</h3>
+<h3 className="text-center-para" data-aos="fade-left">"our talented team crafts the best code and design amazing user experience for users.Web-Builder's are a professional web-development company in downtown Noida."</h3>
         </div>
         <div id="carouselExampleDark" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -72,18 +72,18 @@ export const About = () => {
     <div class="col">
     <FontAwesomeIcon size="2x" icon={faUserFriends} />
     <h3>SCALABLE WEBSITES</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>A scalable web application is a website that is able to handle an increase in users and load.</p3>
     </div>
     <div class="col">
     <FontAwesomeIcon size="2x" icon={faCoffee} />
     <h3>STUNNING TEMPLATES</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>We make high-quality home, landing page website for support, contact, services, and terms according to client.</p3>
     </div>
     <div class="col">
     <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet"></link>
     <FontAwesomeIcon size ="2x"icon={faThumbsUp} />
     <h3>SMOOTH  WEBSITES</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>We specialise in websites that are as functional as they are beautiful, using best practice honed through years of experience.</p3>
     </div>
   </div>
 </div>
@@ -92,17 +92,17 @@ export const About = () => {
     <div class="col">
     <FontAwesomeIcon size="2x" icon={faSmileBeam} />
     <h3>MOBILE FRIENDLY</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>We have entered a new age of internet usage specifically, mobile internet usage. Consumers turn to their mobile devices not just to text, social network, and get directions; they are using them to optimize their lives.</p3>
     </div>
     <div class="col">
     <FontAwesomeIcon size="2x" icon={faBuilding} />
     <h3>LOW PRICES</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>We are providing you low cost, competitive prices while increasing the quality of website production thanks to highly skilled profiles from the field of programming and website design.</p3>
     </div>
     <div class="col">
     <FontAwesomeIcon size="2x" icon={faAddressCard} />
     <h3>SEO TOOLS</h3>
-    <p3>rhe best sacalable website we built together come with us and you will not bwe disppointed</p3>
+    <p3>There are literally hundreds of free SEO tools out there, so we want to focus on only the best and most useful to add to your toolbox. </p3>
     </div>
   </div>
 </div>

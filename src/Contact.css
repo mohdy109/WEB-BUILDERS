@@ -1,128 +1,115 @@
-.get_in_touch{
-    max-width: 800px;
-    margin: 50px;
-    position: relative;
-    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 1);
-    padding: 30px;
-    margin: auto;
-    margin-top: 4rem;
-    margin-left: 15.7rem;
-    justify-content: center;
-    height: 45rem;
-    width: 90rem;
+.get_in_touch {
+  max-width: 800px;
+  margin: 50px;
+  position: relative;
+  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 1);
+  padding: 30px;
+  margin: auto;
+  margin-top: 4rem;
+  margin-left: 15.7rem;
+  justify-content: center;
+  height: 45rem;
+  width: 90rem;
 }
-@media(max-width:375px){
-    .get_in_touch{
-        
-            margin-left: -7.3rem;
-            width: 37rem;
-        
-    }
+@media (max-width: 375px) {
+  .get_in_touch {
+    margin-left: -7.3rem;
+    width: 37rem;
+  }
 }
-.get_in_touch .title{
-    text-transform: uppercase;
-    text-align: center;
-    letter-spacing: 3px;
-    font-size: 3em;
-    line-height: 48px;
-    padding-bottom: 20px;
-    color: #5543ca;
-    background: linear-gradient(to right, #f4524d 0%,#5543ca 100% );
-    -webkit-background-clip : text ;
-    -webkit-text-fill-color:transparent ;
-    padding-left: 12.5rem;
-
-
-
+.get_in_touch .title {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 3em;
+  line-height: 48px;
+  padding-bottom: 20px;
+  color: #5543ca;
+  background: linear-gradient(to right, #f4524d 0%, #5543ca 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-left: 12.5rem;
 }
-@media(max-width:375px){
-    .get_in_touch .title{padding-left: 6rem;
-    }
+@media (max-width: 375px) {
+  .get_in_touch .title {
+    padding-left: 6rem;
+  }
 }
-.contact-form .form-field{
-    position: relative;
-    margin: 32px;
-    padding-right: 5rem;
+.contact-form .form-field {
+  position: relative;
+  margin: 32px;
+  padding-right: 5rem;
 }
-.contact-form .input-text{
-    display: block;
-    width: 100%;
-    height: 36px;
-    border-width: 0 0 2px 0;
-    border-color: #5543ca;
-    font-size: 18px;
-    line-height: 26px;
-    font-weight: 400;
+.contact-form .input-text {
+  display: block;
+  width: 100%;
+  height: 36px;
+  border-width: 0 0 2px 0;
+  border-color: #5543ca;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
 }
 
-
-
-.contact-form .input-text:focus + .label ,
-.contact-form .input-text.not-empty + .label{
-    transform: translateY(-24px);
+.contact-form .input-text:focus + .label,
+.contact-form .input-text.not-empty + .label {
+  transform: translateY(-24px);
 }
-.contact-form .input-text:focus{
-    outline: none;
+.contact-form .input-text:focus {
+  outline: none;
 }
-.contact-form .label{
-    position: absolute;
-    left: 20px;
-    bottom: 11px;
-    font-size: 18px;
-    line-height: 26px;
-    font-weight: 400;
-    color:#5543ca;
-    cursor: text;
-    transition: transform 0.2s ease-in-out;
-    text-transform: capitalize;
+.contact-form .label {
+  position: absolute;
+  left: 20px;
+  bottom: 32px;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #5543ca;
+  cursor: text;
+  transition: transform 0.2s ease-in-out;
+  text-transform: capitalize;
+}
+.contact-form .submit-btn {
+  display: inline-block;
+  background-image: linear-gradient(125deg, #a72879, #064497);
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 16px;
+  padding: 8px 16px;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+#yo {
+  color: royalblue;
+  padding-left: 16.5rem;
 
-}
-.contact-form .submit-btn{
-    display: inline-block;
-    background-image: linear-gradient(125deg, #a72879,#064497);
-    color:#fff;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 16px;
-    padding: 8px 16px;
-    border: none;
-    width: 200px;
-    cursor: pointer;
-
-}
-#yo{
-    color: royalblue;
-    padding-left: 16.5rem;
-    
-    
-    
-    font-size: 2rem;
-    
+  font-size: 2rem;
 }
 
-.contact-form .submit-btn{
-    margin-right: 4rem;
-    justify-content: center;
+.contact-form .submit-btn {
+  margin-right: 4rem;
+  justify-content: center;
 }
-#vio{
-    color: royalblue;
-    font-size: 2rem;
-    padding-right: 3rem;
+#vio {
+  color: royalblue;
+  font-size: 2rem;
+  padding-right: 3rem;
 }
-#bhadu{
-    height:3rem ;
-    width:3rem ;
-    margin-right: 2.5rem;
-    margin-top: 1rem;
+#bhadu {
+  height: 3rem;
+  width: 3rem;
+  margin-right: 2.5rem;
+  margin-top: 1rem;
 }
-@media(max-width:375px){
-     #yo{
-          padding-left: 0.5rem  ;
-          
-      }
-      
-.container {
+@media (max-width: 375px) {
+  #yo {
+    padding-left: 0.5rem;
+  }
+
+  .container {
     margin-left: 1.1rem;
-}
-
+  }
 }

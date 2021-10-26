@@ -24,12 +24,19 @@ export const Service = () => {
   <img src="https://images.unsplash.com/photo-1594402919317-9e67dca0a305?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c21hbGwlMjBidXNpbmVzc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="small bussiness"/>
   <div class="card-body">
     <h5 class="card-title">"Bussiness Websites"</h5>
-    <p class="card-text">Being one of the most popular and versatile types of websites out there, a business website can take many forms. These enable's you to sell a certain  product."click"</p>
+    <p class="card-text">Being one of the most popular and versatile types of websites out there, a business website can take many forms. These enable's you to sell a certain  product."CLICK"</p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>6 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>8 Plugins/Extensions</li>
+<li>Ecommerce functionality</li></ul>
+<h2>20 USD /-</h2>
   </div>
 
 </div>
@@ -40,12 +47,19 @@ export const Service = () => {
   <img src="https://image.shutterstock.com/image-photo/blog-blogging-homepage-social-media-260nw-381746308.jpg" class="card-img-top" alt="blogs"/>
   <div class="card-body">
     <h5 class="card-title">"Blogs"</h5>
-    <p class="card-text">Blogs are a type of website that enable you to write long-form content about virtually anything. They consist mainly of articles and images, typical surrounding."click" </p>
+    <p class="card-text">Blogs are a type of website that enable you to write long-form content about virtually anything. They consist mainly of articles and typical surrounding."CLICK" </p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>4 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>Source code</li>
+<li>High-quality Images</li></ul>
+<h2>10 USD /-</h2>
   </div>
 
 </div>
@@ -56,12 +70,20 @@ export const Service = () => {
   <img src="https://cdn.pixabay.com/photo/2016/08/17/04/43/template-1599667__340.png" class="card-img-top" alt="eCommerce"/>
   <div class="card-body">
     <h5 class="card-title">"eCommerce Websites"</h5>
-    <p class="card-text">Similar to the business websites mentioned above, eCommerce websites, or online stores, allow you to sell products online.Best for making money online."click"  </p>
+    <p class="card-text">Similar to the business websites mentioned above, eCommerce websites, or online stores, allow you to sell products online.Best for making money online."CLICK"  </p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>7 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>Source code</li>
+<li>All dependencies</li>
+<li>High-quality Images</li></ul>
+<h2>25 USD /-</h2>
   </div>
 
 </div>
@@ -76,12 +98,20 @@ export const Service = () => {
   <img src="https://images.unsplash.com/photo-1519167758481-83f550bb49b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGV2ZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="event website"/>
   <div class="card-body">
     <h5 class="card-title">"Event Websites"</h5>
-    <p class="card-text">These sites allow you to display detailed information about your event.Event's like marriages and function's are most appropriate in this column."click" </p>
+    <p class="card-text">These sites allow you to display detailed information about your event.Event's like marriages and function's are most appropriate in this column."CLICK" </p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>7 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>Source code</li>
+<li>All dependencies</li>
+<li>High-quality Images</li></ul>
+<h2>10 USD /-</h2>
   </div>
 
 </div>
@@ -92,12 +122,19 @@ export const Service = () => {
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2F0aW9uYWwlMjB3ZWJzaXRlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="Educational website"/>
   <div class="card-body">
     <h5 class="card-title">"Educational Websites"</h5>
-    <p class="card-text">Every individual wants to receive the best of education to achieve his or her dreams.These websites help's te institution's to connect with student's."click" </p>
+    <p class="card-text">Every individual wants to receive the best of education to achieve his or her dreams.These websites help's te institution's to connect with student's."CLICK" </p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>4 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>Source code</li>
+<li>High-quality Images</li></ul>
+<h2>10 USD /-</h2>
   </div>
 
 </div>
@@ -108,12 +145,20 @@ export const Service = () => {
   <img src="https://images.unsplash.com/photo-1602407294553-6ac9170b3ed0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3Z8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="potfolio"/>
   <div class="card-body">
     <h5 class="card-title">"Portfolio Websites" </h5>
-    <p class="card-text"> People make use of websites in order to display their own work or skills. Portfolios are the perfect type of website to create in order to do just that."click"</p>
+    <p class="card-text"> People make use of websites in order to display their own work or skills. Portfolios are the perfect type of website to create in order to do just that."CLICK"</p>
     
   </div>
   <div className="back">
   <div className="card-body">
-    PRICE'S
+  <h1>PRICE'S</h1>
+  <ul><li>2 Pages</li>
+<li>Design Customization</li>
+<li>Content Upload</li>
+<li>Responsive Design</li>
+<li>Source code</li>
+<li>High-quality Images</li>
+<li>Must provide personal image</li></ul>
+<h2>10 USD /-</h2>
   </div>
 
 </div>
