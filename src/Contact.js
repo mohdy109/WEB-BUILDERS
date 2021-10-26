@@ -41,7 +41,7 @@ setSubmit({
 const register = () =>{
 
   const { name,email,contact,message } = submit;
-  axios.post("http://localhost:5000/submit/add/",submit);
+  axios.post("https://web-builder1.herokuapp.com/submit/add/",submit);
 
 
 
