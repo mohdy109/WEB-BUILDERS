@@ -41,11 +41,12 @@ setSubmit({
 const register = () =>{
 
   const { name,email,contact,message } = submit;
+  window.location = '/service'
   axios.post("https://web-builder1.herokuapp.com/submit/add/",submit);
 
 
 
-window.location = '/service'
+
 
 
 }
